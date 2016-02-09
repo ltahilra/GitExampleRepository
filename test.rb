@@ -1,2 +1,5 @@
-test.rb file
-change from master
+<<<<<<< HEAD
+=======
+test.rb file 
+change from testing
+>>>>>>> iss53
